@@ -1,5 +1,5 @@
-# <font color="red">x86 only, x64 is not supported </font>
- 
+# ***x86 only, x64 is not supported***
+
 ## wpfStyleMenu
 
 # wpf-style menu navigation for win32 applications
